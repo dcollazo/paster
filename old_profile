@@ -1,0 +1,5 @@
+OLD .profile in ~ contained this:
+
+export PATH=/usr/local/bin:$PATH
+
+and nothing else
